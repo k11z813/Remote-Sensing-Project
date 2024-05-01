@@ -2,7 +2,7 @@
 # * * * * * * * * * * * * * Directory and Packages  * * * * * * * * * * * * *  #                                    
 ################################################################################
 # working directory
-setwd("C:/Users/kaeli/OneDrive - Montana State University/Documents/Spring 2024/Remote Sensing/Project/PC")
+setwd("")
 
 # load packages
 library(ggplot2)
