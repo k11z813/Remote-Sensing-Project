@@ -2,7 +2,7 @@
 #            Vegetation Index Plots for Each Growth Stage: Figure 1            #          
 ################################################################################
 # working directory
-setwd("C:/Users/kaeli/OneDrive - Montana State University/Documents/Spring 2024/Remote Sensing/Project/R_input/plot data")
+setwd("")
 
 # load packages
 library(sp)
